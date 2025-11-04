@@ -15,7 +15,7 @@ a) Mittelwerte auf beiden Achsen*
 | Grüne | -0.47     | 0.7  |
 | SPD | -0.4    | 0.3  |
 
-*(Parteien alphabetisch geordnet, alle Werte auf zwei Nachkommastellen gerundet)
+*Parteien alphabetisch geordnet, alle Werte auf zwei Nachkommastellen gerundet
 
 ## Interpretation
 
@@ -27,8 +27,8 @@ a) Mittelwerte auf beiden Achsen*
 - Es gab keinerlei Einthaltungen, alle Parteien haben bei jeder Aussage eine Antwortmöglichkeit gewählt.
 - Operationalisierung: 
     1. Sämtliche Thesen wurden jeweils einer Achse zugeordnet: X-Achse: links-rechts (wirtschaftlich), Y-Achse: konservativ-progressiv (gesellschaftlich).
-    2. Daraufhin wurde definiert, ob die Zustimmung bzw. Ablehnung der jeweiligen These progressiv oder konservativ / rechts oder links ist.
--> Diese Zuordnungen lassen sich in [dieser Tabelle](daten/wahlomat-sachsen-thesen-achsen-politikfeld-werte.xlsx) nachvollziehen.
+    2. Daraufhin wurde definiert, ob die Zustimmung bzw. Ablehnung der jeweiligen These progressiv oder konservativ / rechts oder links ist.        
+        → Diese Zuordnungen lassen sich in [dieser Tabelle](daten/wahlomat-sachsen-thesen-achsen-politikfeld-werte.xlsx) nachvollziehen.
     3. Auf dieser Grundlage wurden die Mittelwerte berechnet, wobei sämtliche Thesen gleich gewichtet wurden.
     4. Die Visualisierung der Ergebnisse wurde mit 0.5σ erstellt, da dies übersichtlicher ist. 
 
