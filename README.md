@@ -16,11 +16,11 @@ a) Mittelwerte auf beiden Achsen (Parteien alphabetisch geordnet, alle Werte auf
 | SPD | -0.4    | 0.3  |
 
 
-### Interpretation
+## Interpretation
 
 
-#### Daten
-- Grundlage ist der Datensatz des **Wahl-O-Mats Sachsen 2024**, welche [hier] (https://www.bpb.de/themen/wahl-o-mat/sachsen-2024/550556/download/) abgerufen werden kann.
+## Daten
+- Grundlage ist der Datensatz des **Wahl-O-Mats Sachsen 2024**, welche [hier](https://www.bpb.de/themen/wahl-o-mat/sachsen-2024/550556/download/) abgerufen werden kann.
 - Die Analyse wurde auf solche Parteien beschränkt, die entweder in der 7. oder 8. Whalperiode im Sächsischen Landtag vertreten waren (CDU, AfD, Die Linke, Bündnis 90/ Die Grünen, SPD, FDP, BSW).
 - Es gab keinerlei Einthaltungen, alle Parteien haben bei jeder Aussage eine Antwortmöglichkeit gewählt.
 - Operationalisierung:
