@@ -17,18 +17,15 @@ a) Mittelwerte auf beiden Achsen*
 
 *Parteien alphabetisch geordnet, alle Werte auf zwei Nachkommastellen gerundet
 
-## Interpretation
-
-
-## Daten
-- Der Code für die gesamte Analyse kann [hier](main.ipynb) eingesehen und nachvollzogen werden.
+## Daten und Operationalisierung
+- Der **Code** für die gesamte Analyse kann [hier](main.ipynb) eingesehen und nachvollzogen werden.
 - Grundlage ist der Datensatz des **Wahl-O-Mats Sachsen 2024**, welche [hier](https://www.bpb.de/themen/wahl-o-mat/sachsen-2024/550556/download/) oder in diesem Repo [hier](daten/original/Wahl-O-Mat%20Sachsen%202024_Datensatz.xlsx) abgerufen werden kann.
 - Die Analyse wurde auf solche Parteien beschränkt, die entweder in der 7. oder 8. Whalperiode im Sächsischen Landtag vertreten waren (CDU, AfD, Die Linke, Bündnis 90/ Die Grünen, SPD, FDP, BSW).
 - Es gab keinerlei Einthaltungen, alle Parteien haben bei jeder Aussage eine Antwortmöglichkeit gewählt.
-- Operationalisierung: 
+- **Operationalisierung**: 
     1. Sämtliche Thesen wurden jeweils einer Achse zugeordnet: X-Achse: links-rechts (wirtschaftlich), Y-Achse: konservativ-progressiv (gesellschaftlich).
     2. Daraufhin wurde definiert, ob die Zustimmung bzw. Ablehnung der jeweiligen These progressiv oder konservativ / rechts oder links ist.        
-        → Diese Zuordnungen lassen sich in [dieser Tabelle](daten/wahlomat-sachsen-thesen-achsen-politikfeld-werte.xlsx) nachvollziehen.
+        ➡️ Diese Zuordnungen lassen sich in dieser [Tabelle](daten/wahlomat-sachsen-thesen-achsen-politikfeld-werte.xlsx) nachvollziehen.
     3. Auf dieser Grundlage wurden die Mittelwerte berechnet, wobei sämtliche Thesen gleich gewichtet wurden.
     4. Die Visualisierung der Ergebnisse wurde mit 0.5σ erstellt, da dies übersichtlicher ist. 
 
