@@ -15,7 +15,19 @@ a) Mittelwerte auf beiden Achsen*
 | Grüne | -0.47     | 0.7  |
 | SPD | -0.4    | 0.3  |
 
+b) Streuung der Parteipositionen (in Kategorien)**
+| Partei                      | σ X-Achse             | σ Y-Achse |
+|:--------------------------------|:---------------|:------------------:|
+| AfD | 🔴 | 🟢|
+| BSW | 🔴 | 🔴|
+| CDU | 🟢 | 🔴 |
+| Die Linke | 🟢 | 🟢 |
+| FDP | | 🔴 |
+| Grüne | 🟡 | 🟢 |
+| SPD | 🔴 | 🟡 |
+
 *Parteien alphabetisch geordnet, alle Werte auf zwei Nachkommastellen gerundet
+** Parteien alphabetisch geordnet; rot = heterogen, grün = homogen
 
 ## Daten und Operationalisierung
 - Der **Code** für die gesamte Analyse kann [hier](main.ipynb) eingesehen und nachvollzogen werden.
