@@ -22,7 +22,7 @@ b) Streuung der Parteipositionen (in Kategorien)**
 | BSW | 🔴 | 🔴|
 | CDU | 🟢 | 🔴 |
 | Die Linke | 🟢 | 🟢 |
-| FDP | | 🔴 |
+| FDP | 🟢 | 🔴 |
 | Grüne | 🟡 | 🟢 |
 | SPD | 🔴 | 🟡 |
 
